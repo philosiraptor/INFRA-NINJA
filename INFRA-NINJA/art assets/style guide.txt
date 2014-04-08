@@ -1,0 +1,20 @@
+infra ninja style guide
+main logo specs
+
+	   MM       PX	    IN
+-------------------------------------------------------
+ width |  100	| 354.33|  3.94	|
+height |  25 	|  88.58|  0.98	|
+  right|  5	|	|	|
+   left|  5	|	|	|   
+    top|  5	|	|	|
+ bottom|  5	|	|	|
+
+font: mistral 72pt
+text color
+R:255
+G:0
+B:0
+
+background: transparent
+preferred back: white
